@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b2bedbb3-334d-4d90-863a-40afea02bfc3)About Project:
+About Project:
 Student Management System (SMS)
 
 
